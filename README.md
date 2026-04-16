@@ -37,5 +37,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 The app:
 
-![Imgur](https://imgur.com/xBWTtgz.png)
+![Imgur](https://i.imgur.com/kRcxI4w.png)
 
